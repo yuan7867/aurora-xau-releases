@@ -1,11 +1,11 @@
 {
     "product":  "xau",
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "minimum_version":  "1.0.0",
     "force_update":  false,
-    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.3/Aurora_XAU_Trader.exe",
-    "sha256":  "bebdcab556da2db4e29a833dd049d103675ccd8db6e1b27b1e8d6554366818aa",
+    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.4/Aurora_XAU_Trader.exe",
+    "sha256":  "0a4e8e975bac0aa3ba6bc4c7016a9e9629be37ede6a22e07f8fca4ff370635b2",
     "release_notes":  [
-                          "Auto-restart after update"
+                          "Fix auto-update (updater accepted the download); auto-restart"
                       ]
 }
