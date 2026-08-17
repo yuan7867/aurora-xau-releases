@@ -1,11 +1,11 @@
 {
     "product":  "xau",
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "minimum_version":  "1.0.0",
     "force_update":  false,
-    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.0/Aurora_XAU_Trader.exe",
+    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.1/Aurora_XAU_Trader.exe",
     "sha256":  "2e18a2a97bfb5b56f9856665a06b050f0dc9ea9f2488270ee007b71befe1982b",
     "release_notes":  [
-                          "Initial packaged release."
+                          "Make risk guards config-overridable; daily target default 5%"
                       ]
 }
