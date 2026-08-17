@@ -1,11 +1,11 @@
 {
     "product":  "xau",
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "minimum_version":  "1.0.0",
     "force_update":  false,
-    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.1/Aurora_XAU_Trader.exe",
-    "sha256":  "2e21d389c1b9e83d8dbc9f7f6223203ac83aa03b6c785cfec88229e6dbae33bf",
+    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.2/Aurora_XAU_Trader.exe",
+    "sha256":  "51154411e7d5741940ad19893c68074bf5b68ed6a0062dad3e62c80beb5ded58",
     "release_notes":  [
-                          "Make risk guards config-overridable; daily target default 5%"
+                          "Fix: detect broker-suffixed XAUUSD symbols (XAUUSD.c/.crp); config SYMBOL_OVERRIDE; windowed error dialog instead of EOF crash"
                       ]
 }
