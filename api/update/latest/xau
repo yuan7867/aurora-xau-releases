@@ -4,8 +4,8 @@
     "minimum_version":  "1.0.0",
     "force_update":  false,
     "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.8/Aurora_XAU_Trader.exe",
-    "sha256":  "f4f22bb8eeb1237da0b7909ca3a2d6aa831c7ffc2d5e7be304fa807ac737928d",
+    "sha256":  "848736853fd31d717cda28cb0179bfd082cc74ad51e54efef4a1aceb45a81833",
     "release_notes":  [
-                          "Deposit-aware daily target"
+                          "Deposit-aware daily target (fixed binary)"
                       ]
 }
