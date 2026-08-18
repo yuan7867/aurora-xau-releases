@@ -1,11 +1,11 @@
 {
     "product":  "xau",
-    "version":  "1.0.5",
+    "version":  "1.0.6",
     "minimum_version":  "1.0.0",
     "force_update":  false,
-    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.5/Aurora_XAU_Trader.exe",
-    "sha256":  "8c49230f769a94a75918e2083fb6bf9102d58979111b756066813527be90884a",
+    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.6/Aurora_XAU_Trader.exe",
+    "sha256":  "ca681e8506ca8c5b11f84d10c811e125314faddc5881b022784ab46203b5a9f4",
     "release_notes":  [
-                          "Fix cloud_sync being dropped from config on save"
+                          "0-balance daily-target fix + persistent monthly P\u0026L ledger"
                       ]
 }
