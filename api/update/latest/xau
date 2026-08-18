@@ -1,11 +1,11 @@
 {
     "product":  "xau",
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "minimum_version":  "1.0.0",
     "force_update":  false,
-    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.7/Aurora_XAU_Trader.exe",
+    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.8/Aurora_XAU_Trader.exe",
     "sha256":  "f4f22bb8eeb1237da0b7909ca3a2d6aa831c7ffc2d5e7be304fa807ac737928d",
     "release_notes":  [
-                          "Hidden auto-managed cloud sync daemon"
+                          "Deposit-aware daily target"
                       ]
 }
