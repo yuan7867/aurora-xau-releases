@@ -1,11 +1,11 @@
 {
     "product":  "xau",
-    "version":  "1.0.9",
+    "version":  "1.0.10",
     "minimum_version":  "1.0.0",
     "force_update":  false,
-    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.9/Aurora_XAU_Trader.exe",
-    "sha256":  "ab39624c4db38eec20585aa475a6d65191092bde748a73d035b41c71852b7112",
+    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.10/Aurora_XAU_Trader.exe",
+    "sha256":  "f112719a314c751070bf79ef837c5dcfeb211ad6ec72c6896c9c92a8e455de1d",
     "release_notes":  [
-                          "Auto-reconnect MT5 after weekend close"
+                          "Reconnect throttle + single recovery event"
                       ]
 }
