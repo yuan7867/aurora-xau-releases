@@ -1,11 +1,11 @@
 {
     "product":  "xau",
-    "version":  "1.0.10",
+    "version":  "1.0.11",
     "minimum_version":  "1.0.0",
     "force_update":  false,
-    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.10/Aurora_XAU_Trader.exe",
-    "sha256":  "f112719a314c751070bf79ef837c5dcfeb211ad6ec72c6896c9c92a8e455de1d",
+    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.11/Aurora_XAU_Trader.exe",
+    "sha256":  "eceaedd144857c961f7fc75affe717beebacb9027c232fecd51f1caa20bd4bc3",
     "release_notes":  [
-                          "Reconnect throttle + single recovery event"
+                          "CloudSync 守护看门狗(崩溃自动重拉)+ 断网不再崩溃; GUI 内选 MT5 终端/账号(Apply); 多开按文件夹自动分配端口. 全部向后兼容."
                       ]
 }
