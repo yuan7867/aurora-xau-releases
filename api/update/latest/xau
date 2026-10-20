@@ -1,11 +1,11 @@
 {
-    "product":  "xau",
-    "version":  "1.0.11",
-    "minimum_version":  "1.0.0",
-    "force_update":  false,
-    "download_url":  "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.11/Aurora_XAU_Trader.exe",
-    "sha256":  "eceaedd144857c961f7fc75affe717beebacb9027c232fecd51f1caa20bd4bc3",
-    "release_notes":  [
-                          "CloudSync 守护看门狗(崩溃自动重拉)+ 断网不再崩溃; GUI 内选 MT5 终端/账号(Apply); 多开按文件夹自动分配端口. 全部向后兼容."
-                      ]
+    "product": "xau",
+    "version": "1.0.12",
+    "minimum_version": "1.0.0",
+    "force_update": false,
+    "download_url": "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.12/Aurora_XAU_Trader.exe",
+    "sha256": "85c031a628516591fc84b2297ed571c29e55a8f17f68b67985c5df4c16037f4a",
+    "release_notes": [
+        "v1.0.12: Daily balance target lowered from 5% to 1% per day; Filling mode auto-detect from broker preferred mode (fixes 10030 Unsupported filling mode retries)."
+    ]
 }
