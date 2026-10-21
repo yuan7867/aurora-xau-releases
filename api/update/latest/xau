@@ -1,11 +1,11 @@
 {
     "product": "xau",
-    "version": "1.0.12",
+    "version": "1.0.13-beta",
     "minimum_version": "1.0.0",
     "force_update": false,
-    "download_url": "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.12/Aurora_XAU_Trader.exe",
-    "sha256": "85c031a628516591fc84b2297ed571c29e55a8f17f68b67985c5df4c16037f4a",
+    "download_url": "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.13-beta/Aurora_XAU_Trader.exe",
+    "sha256": "2ccb4cccfc93d526cbfc9ae622c736a4b2ef4d3ac068f0857db0400397671929",
     "release_notes": [
-        "v1.0.12: Daily balance target lowered from 5% to 1% per day; Filling mode auto-detect from broker preferred mode (fixes 10030 Unsupported filling mode retries)."
+        "v1.0.13-beta: Added smart filters (disabled by default) - blocked hours, ATR volatility filter, side-specific lot multipliers."
     ]
 }
