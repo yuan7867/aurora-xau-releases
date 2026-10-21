@@ -1,11 +1,1 @@
-{
-    "product": "xau",
-    "version": "1.0.14",
-    "minimum_version": "1.0.0",
-    "force_update": false,
-    "download_url": "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.14/Aurora_XAU_Trader.exe",
-    "sha256": "f742a6457740df4e6dbac91286dedd8a96b5462fb649ea2232e479892df3a4cb",
-    "release_notes": [
-        "v1.0.14: Smart filters applied to PAPER TRADING only (live trading unaffected)."
-    ]
-}
+{"product": "xau", "version": "1.0.14", "minimum_version": "1.0.0", "force_update": false, "download_url": "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.14/Aurora_XAU_Trader.exe", "sha256": "7d0a4a004a743f48ff853ece4e9859e9502860b8718f46699684e1d166905633", "release_notes": ["v1.0.14: Smart filters ON by default for PAPER TRADING only (live trading unaffected)."]}
