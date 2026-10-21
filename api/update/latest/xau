@@ -1,11 +1,11 @@
 {
     "product": "xau",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "minimum_version": "1.0.0",
     "force_update": false,
-    "download_url": "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.13/Aurora_XAU_Trader.exe",
-    "sha256": "08940f5e5a6c9ad2bc79470ca3d2138182a041a35e917f3094f131218f929afa",
+    "download_url": "https://github.com/yuan7867/aurora-xau-releases/releases/download/v1.0.14/Aurora_XAU_Trader.exe",
+    "sha256": "f742a6457740df4e6dbac91286dedd8a96b5462fb649ea2232e479892df3a4cb",
     "release_notes": [
-        "v1.0.13: Added smart filters (disabled by default) - blocked hours, ATR volatility filter, side-specific lot multipliers."
+        "v1.0.14: Smart filters applied to PAPER TRADING only (live trading unaffected)."
     ]
 }
